@@ -1,5 +1,5 @@
 {
-	"prefix": "YOUR_PREFIX_HERE",
-	"nsfw_channel_only": "false",
-	"token": "YOUR_TOKEN_HERE"
+	"prefix": "sk/",
+	"nsfw_channel_only": "true",
+	"token": "MTE4NjM5OTAwOTgwMDIwNDM4MQ.GV0ath.4P3klWt7Q0dYX8-05Vn_Tz_u2XED5dtE6w8Jbg"
 }
